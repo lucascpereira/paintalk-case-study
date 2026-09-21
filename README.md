@@ -79,27 +79,20 @@ PainTalk has been tested on physical Android devices, including smartphones and 
 
 The screenshots below show the application running on real hardware rather than only inside an emulator.
 
-<img width="1536" height="2048" alt="V2-Beta-1 0 (18)" src="https://github.com/user-attachments/assets/ceae4428-01bb-4626-aeae-c1b8a3d55c12" />
-<img width="1536" height="2048" alt="V2-Beta-1 0 (16)" src="https://github.com/user-attachments/assets/b8db737c-78b4-49db-b2d5-b1aee18d6ef7" />
-<img width="1536" height="2048" alt="V2-Beta-1 0 (12)" src="https://github.com/user-attachments/assets/95669cc1-dd09-45f8-a6df-4b73d0ba7705" />
-<img width="1536" height="2048" alt="V2-Beta-1 0 (10)" src="https://github.com/user-attachments/assets/2bfb4036-9f0e-4491-9f2c-b01108124efe" />
-<img width="1536" height="2048" alt="V2-Beta-1 0 (8)" src="https://github.com/user-attachments/assets/c4d273ec-0ae1-4c91-9760-1e71fac09d52" />
-<img width="1536" height="2048" alt="V2-Beta-1 0 (6)" src="https://github.com/user-attachments/assets/adbcf389-cde3-48a3-aa59-7542b844ae6e" />
-<img width="1536" height="2048" alt="V2-Beta-1 0 (3)" src="https://github.com/user-attachments/assets/b2d6e546-9c48-4d05-a9f2-22d6fb0d4c38" />
-<img width="1536" height="2048" alt="V2-Beta-1 0 (1)" src="https://github.com/user-attachments/assets/3f0d2a8a-553f-4716-9e69-e8a37b23f141" />
-
-
 ### Smartphone
 
-![PainTalk running on Android smartphone]
+![PainTalk running on Android smartphone and Android Tablet
 
-<img width="1536" height="2048" alt="image01 (13)" src="https://github.com/user-attachments/assets/ad3461f7-de5b-4011-91c2-06cb671d4fbd" />
+![PainTalk running on smartphone and Android tablet]
 
-### Android Tablet
 
-![PainTalk running on Android tablet]
-
-<img width="1536" height="2048" alt="tab01 (3)" src="https://github.com/user-attachments/assets/ca475374-116f-47e6-ba6a-93682cd1f1ff" />
+<img width="600" height="800" alt="07-paintalk-pain-intensity" src="https://github.com/user-attachments/assets/4f2bba29-95e7-4823-9588-5615d2aeccdb" />
+<img width="1536" height="2048" alt="06-paintalk-foot-detail" src="https://github.com/user-attachments/assets/b04ec8e4-9b1c-4cd4-918c-d03d627c47b6" />
+<img width="600" height="800" alt="05-paintalk-hand-detail" src="https://github.com/user-attachments/assets/5761caa4-8ef6-4af2-b7a6-5a413501f4f3" />
+<img width="600" height="800" alt="04-paintalk-body-map" src="https://github.com/user-attachments/assets/f7587213-f2c7-44be-9674-864a555a6170" />
+<img width="1536" height="2048" alt="03-paintalk-language-support" src="https://github.com/user-attachments/assets/4e4261a4-b0a7-46bc-9871-638c05a244a3" />
+<img width="600" height="800" alt="02-paintalk-home" src="https://github.com/user-attachments/assets/7705766d-01ef-45d3-955c-ff918e92209e" />
+<img width="600" height="800" alt="01-paintalk-real-devices" src="https://github.com/user-attachments/assets/936dd74d-c7b9-4b69-a5a5-0fdaa5dd80ad" />
 
 
 ## Technology
