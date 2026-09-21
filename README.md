@@ -83,17 +83,13 @@ The screenshots below show the application running on real hardware rather than 
 
 ![PainTalk running on Android smartphone and Android Tablet
 
-![PainTalk running on smartphone and Android tablet]
-
-
-<img width="600" height="800" alt="07-paintalk-pain-intensity" src="https://github.com/user-attachments/assets/4f2bba29-95e7-4823-9588-5615d2aeccdb" />
-<img width="1536" height="2048" alt="06-paintalk-foot-detail" src="https://github.com/user-attachments/assets/b04ec8e4-9b1c-4cd4-918c-d03d627c47b6" />
-<img width="600" height="800" alt="05-paintalk-hand-detail" src="https://github.com/user-attachments/assets/5761caa4-8ef6-4af2-b7a6-5a413501f4f3" />
-<img width="600" height="800" alt="04-paintalk-body-map" src="https://github.com/user-attachments/assets/f7587213-f2c7-44be-9674-864a555a6170" />
-<img width="1536" height="2048" alt="03-paintalk-language-support" src="https://github.com/user-attachments/assets/4e4261a4-b0a7-46bc-9871-638c05a244a3" />
-<img width="600" height="800" alt="02-paintalk-home" src="https://github.com/user-attachments/assets/7705766d-01ef-45d3-955c-ff918e92209e" />
 <img width="600" height="800" alt="01-paintalk-real-devices" src="https://github.com/user-attachments/assets/936dd74d-c7b9-4b69-a5a5-0fdaa5dd80ad" />
-
+<img width="600" height="800" alt="02-paintalk-home" src="https://github.com/user-attachments/assets/7705766d-01ef-45d3-955c-ff918e92209e" />
+<img width="1536" height="2048" alt="03-paintalk-language-support" src="https://github.com/user-attachments/assets/4e4261a4-b0a7-46bc-9871-638c05a244a3" />
+<img width="600" height="800" alt="04-paintalk-body-map" src="https://github.com/user-attachments/assets/f7587213-f2c7-44be-9674-864a555a6170" />
+<img width="600" height="800" alt="05-paintalk-hand-detail" src="https://github.com/user-attachments/assets/5761caa4-8ef6-4af2-b7a6-5a413501f4f3" />
+<img width="1536" height="2048" alt="06-paintalk-foot-detail" src="https://github.com/user-attachments/assets/b04ec8e4-9b1c-4cd4-918c-d03d627c47b6" />
+<img width="600" height="800" alt="07-paintalk-pain-intensity" src="https://github.com/user-attachments/assets/4f2bba29-95e7-4823-9588-5615d2aeccdb" />
 
 ## Technology
 
